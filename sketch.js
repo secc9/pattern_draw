@@ -4,6 +4,8 @@ let amt;
 
 
 
+
+
 function setup() {
 frameRate(6);
     createCanvas(displayWidth, displayHeight);
