@@ -49,6 +49,10 @@ function mousePressed(){
 }
 
 function keyPressed(){
+    if(keyCode === SPACE){
+	value = 255;
+    
 
     save("image###.png")
+}
 }
