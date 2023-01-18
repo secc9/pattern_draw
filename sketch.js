@@ -5,7 +5,7 @@ let amt;
 
 function setup() {
 frameRate(6);
-    createCanvas(displayWidth, displayHeight);
+    createCanvas(windowWidth, windowHeight);
     // background(0);
 
     noLoop();
